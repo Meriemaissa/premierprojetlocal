@@ -9,7 +9,6 @@ public class premiermain {
 		System.out.println("word");
 		}
 		
-		
-	}
+		}
 
 }
